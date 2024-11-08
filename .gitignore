@@ -1,0 +1,7 @@
+React/node_modules/
+server/node_modules/
+
+React/.env
+server/.env
+
+.DS_Store
