@@ -67,4 +67,4 @@ This repository contains two parts:
 
 ---
 
-Now, you can open your browser and visit `http://localhost:5173 (or the appropriate port if your app configured a different one) to use the app.
+Now, you can open your browser and visit `http://localhost:5173` (or the appropriate port if your app configured a different one) to use the app.
