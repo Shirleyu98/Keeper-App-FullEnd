@@ -13,7 +13,8 @@ This repository contains two parts:
 
 ## Frontend Page
 
-![[screenshot_keeper_app.png]]
+![screenshot_keeper_app]([https://github.com/user-attachments/assets/bbf0a7e4-0dd6-40a0-a251-6a6b1e7bbab7](https://github.com/Shirleyu98/Keeper-App-FullEnd/blob/main/screenshot_keeper_app.png))
+
 
 ---
 
